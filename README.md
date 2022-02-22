@@ -2,8 +2,6 @@ Description: This project was made for learning how to signal WebRTC SDPs using 
 
 Installation: Go to your desired folder.
 
-Run the command: git clone https://github.com/Tauhid-UAP/django-channels-webrtc.git
-
 Go to the directory with requirements.txt.
 
 Run the command: python -m venv venv
