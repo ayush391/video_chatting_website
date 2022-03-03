@@ -1,5 +1,3 @@
-Description: This project was made for learning how to signal WebRTC SDPs using Javascript WebSocket and django-channels to make multi-peer video conferencing systems.
-
 Installation: Go to your desired folder.
 
 Go to the directory with requirements.txt.
